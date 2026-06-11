@@ -157,3 +157,10 @@
     justify-content: center;
     height: 100%;
 }
+
+.tagline {
+    margin-top: 12px;
+    font-style: italic;
+    color: #7f8c8d;
+    font-size: 13px;
+}
